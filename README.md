@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Fatimah 👋
 
-<!--
-**fatimahk705/fatimahk705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at King's College London, graduating in 2027.
 
-Here are some ideas to get you started:
+I'm interested in backend software engineering and fintech, with experience in Java, Spring Boot, REST APIs, SQL and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously a Software Engineering Intern in Financial Crime Technology at HSBC.
+
+## Projects
+
+- **E-Commerce KPI Analysis** – SQL and Python analysis of 100k+ transactions
+- **Java Transaction API** – Spring Boot backend project *(in progress)*
+
+## Technologies
+
+Java • Spring Boot • SQL • Python • Git
